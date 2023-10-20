@@ -19,7 +19,7 @@ I've Knowledge with
 
 
 ## Github Stats 
-|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohankumar2812&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar2812&layout=compact" /> |
-| ------------- | ------------- |
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohankumar2812&show_icons=true" /> 
+
 
 <br/>  
