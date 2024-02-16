@@ -1,14 +1,14 @@
 
-# Hi, I'm MOHAN KUMAR A 👋
+# Hi, welcome to my Repository 👋
 
 ## 🚀 About Me
-I'm a blockchain developer.
+I'm a Backend developer.
 I've Knowledge with
 
+    * Golang
     * Blockchain
     * Smarcontract
     * Nodejs
-    * Golang
     * Rust
     
 ## 🔗 Links
@@ -20,6 +20,5 @@ I've Knowledge with
 
 ## Github Stats 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohankumar2812&show_icons=true" /> 
-
 
 <br/>  
