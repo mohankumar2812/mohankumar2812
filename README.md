@@ -7,7 +7,7 @@ I've Knowledge with
 
     * Golang
     * Blockchain
-    * Smarcontract
+    * Smartcontract
     * Nodejs
     * Rust
     
